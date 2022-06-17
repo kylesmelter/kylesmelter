@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! My name is Kyle Smelter, and I'm a software engineer with a penchant for Pokémon, video games, hiking, running, trading card games, and all things 2000's pop-punk. I specialize in HTML, CSS, and JavaScript, and enjoy creating magic in digital spaces.
 
 <!--
 **kylesmelter/kylesmelter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
