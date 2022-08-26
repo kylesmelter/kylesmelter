@@ -19,7 +19,7 @@
 
 <!--
 
-![Codewars](https://github.r2v.ch/codewars?user=kylesmelter&stroke=green)
+https://github-readme-codewars-stats.herokuapp.com/api/?username=kylesmelter&card&colormode=dark_mode
 
 **kylesmelter/kylesmelter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
