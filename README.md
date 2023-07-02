@@ -1,7 +1,7 @@
 <h1 align="center">Hey! I'm Kyle</h1>
 <h3 align="center">I'm a software engineer with a penchant for Pokémon, video games, hiking, running, trading card games, and all things 2000's pop-punk. I specialize in HTML, CSS, and JavaScript, and can't wait to show you what I can do.</h3>
 
-- 💬 Ask me about **HTML, CSS, JavaScript, and anything Pokémon or blink-182**
+- 💬 Ask me about **HTML, CSS, JavaScript, and anything Pokémon, Yu-Gi-Oh!, or blink-182**
 - 🌱 I’m currently learning JavaScript and studying for the CompTIA A+ certification
 - 📫 How to reach me **kylesmelter@gmail.com**
 
