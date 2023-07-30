@@ -4,7 +4,7 @@
 - 💬 Ask me about **HTML, CSS, JavaScript, and anything Pokémon, Yu-Gi-Oh!, or blink-182 related**
 - 🌱 I’m currently learning JavaScript and studying for the CompTIA A+ Core 2 220-11012 exam
 - CompTIA A+ Core 1 220-1101 completed on July 21, 2023 ✅
-- 📫 How to reach me **kylesmelter@gmail.com**
+- 📫 You can reach me at **kylesmelter@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
