@@ -1,5 +1,5 @@
 <h1 align="center">Hey! I'm Kyle</h1>
-<h3 align="center">I'm a software engineer with an affinity for Pokémon, video games, hiking, running, trading card games, and all things 2000's pop-punk. I have a good understanding of HTML, CSS, and JavaScript, and can't wait to contribute to your team.</h3>
+<h3 align="center">I'm a software engineer with an affinity for Pokémon, video games, hiking, running, trading card games, and all things 2000's pop-punk (especially blink-182). I have a good understanding of HTML, CSS, and JavaScript, and can't wait to contribute to your team.</h3>
 
 - 💬 Ask me about **HTML, CSS, JavaScript, and anything Pokémon, Yu-Gi-Oh!, or blink-182 related**
 - 🌱 I’m currently learning JavaScript and studying for the CompTIA A+ Core 2 220-1102 exam
