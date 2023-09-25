@@ -1,7 +1,7 @@
 <h1 align="center">Hey! I'm Kyle</h1>
 <h3 align="center">I'm an aspiring software engineer with an affinity for Pokémon, video games, hiking, running, trading card games, and all things 2000's pop-punk. I have working knowledge of HTML, CSS, and JavaScript, and can't wait to continue learning more.</h3>
 
-- 💬 Ask me about **HTML, CSS, JavaScript, and anything Pokémon, Yu-Gi-Oh!, or blink-182 related**
+- 💬 Ask me about **HTML, CSS, JavaScript, and anything Pokémon, Yu-Gi-Oh!, and/or blink-182 related**
 - 🌱 I’m currently learning JavaScript and studying for the CompTIA A+ Core 2 220-1102 exam
 - CompTIA A+ Core 1 220-1101 completed on July 21, 2023 ✅
 - 📫 You can reach me at **kylesmelter@gmail.com**
